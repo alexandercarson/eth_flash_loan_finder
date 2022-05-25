@@ -1,1 +1,1 @@
-# eth_flash_loan_finder
+# Ethereum Flash Loan Finder / Node.js Console App
